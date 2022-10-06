@@ -11,7 +11,7 @@
 > SNOMED-CT
 
 #### Modelo de Informação:
-###### Sumário de Alta
-```
+> Sumário de Alta
+>```
 https://www.gov.br/saude/pt-br/acesso-a-informacao/participacao-social/consultas-publicas/2017/arquivos/SumarioAltaConsultaPublica.pdf
 ```
