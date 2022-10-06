@@ -2,7 +2,7 @@
 
 #### Software de Registro de Sumário de Alta interoperável
 
-#### Projeto da Disciplina Projeto em Informática Biomédica II (S6/8) do curso de Informática Biomédica da Faculdade de Medicina de Ribeirão Preto na Universidade de São Paulo (FMRP-USP)
+#### Projeto da Disciplina **Projeto em Informática Biomédica II** (S 6/8) do curso de **Informática Biomédica** da Faculdade de Medicina de Ribeirão Preto na Universidade de São Paulo (FMRP-USP)
 
 #### Tecnologias utilizadas:
 > CodeIgniter, HTMl, CSS, JavaScript
